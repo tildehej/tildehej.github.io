@@ -1,0 +1,34 @@
+
+h1
+{
+	font-family: acme;
+	color:purple;
+}
+
+h4
+{
+	font-family: poppins;
+}
+
+body{
+	background-color: #cec5db;
+
+}
+
+footer
+{
+	position: fixed;
+	bottom: 0;
+	display: block;
+	width: 100%;
+}
+
+.footer-bild
+{
+	margin-top: 20px;
+}
+
+.mitten{
+	display: inline-block;
+	text-align: left;
+}

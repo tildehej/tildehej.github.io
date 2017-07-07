@@ -1,0 +1,34 @@
+body {
+	background-color: pink
+	;
+	text-align: center;
+}
+
+h1 {
+	color:  #c790cc;
+}
+
+ul {
+	color: #fc28a0;
+	font-size: 20px;
+}
+
+ol {
+	color: #fc28a0;
+}
+#första{
+	color: #5885ad;
+}
+
+#andra {
+	color: #838ddb;
+}
+
+#tredje {
+	color: #bcaadb;
+}
+
+
+.gulbakrund {
+	background-color: yellow;
+}
